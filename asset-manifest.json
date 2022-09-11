@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecommere/static/css/main.2b3e3b49.css",
+    "main.js": "/ecommere/static/js/main.8cfc5469.js",
+    "static/js/787.c8c9733f.chunk.js": "/ecommere/static/js/787.c8c9733f.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ecommere/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/gown.jpg": "/ecommere/static/media/gown.04fe0352d2f198c58310.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/ecommere/index.html",
+    "main.2b3e3b49.css.map": "/ecommere/static/css/main.2b3e3b49.css.map",
+    "main.8cfc5469.js.map": "/ecommere/static/js/main.8cfc5469.js.map",
+    "787.c8c9733f.chunk.js.map": "/ecommere/static/js/787.c8c9733f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b3e3b49.css",
+    "static/js/main.8cfc5469.js"
+  ]
+}
