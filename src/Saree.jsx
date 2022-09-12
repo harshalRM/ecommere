@@ -4,14 +4,15 @@ const SAREE = [
         title:"Mustard Banarasi Silk Woven Saree",
         price:5720,
         desc:"Shop from a wide range of Sarees from Ethnic. Pefect for your functions, family occassions, party, wedding,etc., you could pair it with a stylish pair of jewellaries to complete the look. ",
-        img:"/images/saree/ssaree.webp"
+        img:"/images/saree/saree.webp"
     },
     {
         id:2,
         title:"Teal Green Georgette Plain Saree",
         price:3640,
         desc:"Shop from a wide range of Lehengas from Ethnic. Pefect for your functions, family occassions, party, wedding,etc., you could pair it with a stylish pair of jewellaries to complete the look. ",
-        img:"/images/saree/saree18.webp"
+        // img:"./images/saree/saree18.webp"
+        img: "/images/saree/saree18.webp"
     },
     {
         id:3,
@@ -81,7 +82,7 @@ const SAREE = [
         title:"Georgette Saree In Dark Black Colour",
         price:2530,
         desc:"Shop from a wide range of Lehengas from Ethnic. Pefect for your functions, family occassions, party, wedding,etc., you could pair it with a stylish pair of jewellaries to complete the look. ",
-        img:"/images/saree/saree21.jpg"
+        img:"/public/images/saree/saree11.jpg"
     },
 ]
 export default SAREE

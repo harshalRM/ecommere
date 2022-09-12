@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <>
       <div className="container py-4 my-5">
-        <img src="images/contact.png" class="img-fluid" alt="..."/>
+        <img src="images/contact.png" className="img-fluid" alt="..."/>
       </div>
       <div className="container my-4 py-4 ">
         <div className="row ">
@@ -16,7 +16,7 @@ const Contact = () => {
             <h3 className="text-danger fw-bold my-3">Contact us via this number</h3>
           </div>
           <div className="col-md-6 text-center bg-light shadow ">
-            <i class="fa fa-comments fs-1 my-3 py-2"></i>
+            <i className="fa fa-comments fs-1 my-3 py-2"></i>
             <h3 className="fw-bold my-3 py-2">Customer Care message</h3>
             <p className="fw-bold lead my-3 py-2">Start a chat with our chatbot if call is not working. leave your doubts or complains</p>
             <button className="btn btn-outline-primary p-2 my-3">Send Message</button>
