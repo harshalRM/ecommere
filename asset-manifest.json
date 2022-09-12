@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ecommere/static/css/main.2b3e3b49.css",
-    "main.js": "/ecommere/static/js/main.8cfc5469.js",
-    "static/js/787.c8c9733f.chunk.js": "/ecommere/static/js/787.c8c9733f.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/ecommere/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/gown.jpg": "/ecommere/static/media/gown.04fe0352d2f198c58310.jpg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommere/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/ecommere/index.html",
-    "main.2b3e3b49.css.map": "/ecommere/static/css/main.2b3e3b49.css.map",
-    "main.8cfc5469.js.map": "/ecommere/static/js/main.8cfc5469.js.map",
-    "787.c8c9733f.chunk.js.map": "/ecommere/static/js/787.c8c9733f.chunk.js.map"
+    "main.css": "/react-app%20%20/static/css/main.29b5f786.css",
+    "main.js": "/react-app%20%20/static/js/main.f2b2fad3.js",
+    "static/js/787.c8c9733f.chunk.js": "/react-app%20%20/static/js/787.c8c9733f.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-app%20%20/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/saree11.jpg": "/react-app%20%20/static/media/saree11.511d99e88785ad359249.jpg",
+    "static/media/fontawesome-webfont.eot": "/react-app%20%20/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-app%20%20/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-app%20%20/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-app%20%20/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/react-app%20%20/index.html",
+    "main.29b5f786.css.map": "/react-app%20%20/static/css/main.29b5f786.css.map",
+    "main.f2b2fad3.js.map": "/react-app%20%20/static/js/main.f2b2fad3.js.map",
+    "787.c8c9733f.chunk.js.map": "/react-app%20%20/static/js/787.c8c9733f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b3e3b49.css",
-    "static/js/main.8cfc5469.js"
+    "static/css/main.29b5f786.css",
+    "static/js/main.f2b2fad3.js"
   ]
 }
